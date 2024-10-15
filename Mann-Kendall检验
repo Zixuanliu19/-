@@ -1,1 +1,2 @@
-MK检验是一种
+MK检验是一种非参数检验，可以进行趋势性检验，python包名称：import pymannkendall as mk
+
